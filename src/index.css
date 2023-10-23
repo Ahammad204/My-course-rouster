@@ -1,0 +1,12 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: rgba(8, 7, 7, 0.87);
+  background-color: white;
+
+}
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
